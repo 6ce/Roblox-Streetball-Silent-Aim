@@ -146,7 +146,7 @@ end
 
 function ChangePower(EndPower)
     while task.wait() do
-        if Player.Character == nil or Player.Character:FindFirstChild("Basketball") == nil then
+        if (Player.Character == nil or Player.Character:FindFirstChild("Basketball") == nil) or getgenv().AutoPower ~= true then
             break
         end
         
@@ -207,13 +207,13 @@ function HandleRender()
             Arc = tostring(PowerValue)
         end
         
-        if math.floor(Distance) == 57 then
+        if math.floor(Distance) == 57 and Arc == "75" then
 	        Footing = true
-	    elseif math.floor(Distance) == 64 then
+	    elseif math.floor(Distance) == 64 and Arc == "80" then
 	        Footing = true
-	    elseif math.floor(Distance) == 70 then
+	    elseif math.floor(Distance) == 70 and Arc == "85" then
 	        Footing = true
-        elseif math.floor(Distance) == 76 then
+        elseif math.floor(Distance) == 76 and Arc == "90" then
 	        Footing = true
 	    else
 	        Footing = false
