@@ -6,6 +6,10 @@ Due to the GUI not being ready yet, I've decided to just release the Aimbot for 
 
 Requires Synapse, Script-Ware (Windows & Mac most likely), Fluxus, or KRNL
 
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/carolesdaughter/Streetball-Silent-Aim/main/Aimbot.lua"))()
+```
+
 # Footing
 
 75 - https://ibb.co/tLQGGJq
