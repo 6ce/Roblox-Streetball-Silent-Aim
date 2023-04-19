@@ -133,8 +133,13 @@ function ShootBall()
 	if SpawnPosition.Y - Player.Character.PrimaryPart.Position.Y < 4 then
 		SpawnPosition = Player.Character.PrimaryPart.Position + Unit * 4
 	end
+	
+	setupvalue(Function, 1, true)
     
     ShootEvent:FireServer(Vector, SpawnPosition, "\240\159\148\165\240\159\148\165")
+    
+    task.wait(0.09)
+    setupvalue(Function, 1, false)
     
     Shooting = false
 end
