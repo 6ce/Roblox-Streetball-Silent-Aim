@@ -6,6 +6,7 @@ Due to the GUI not being ready yet, I've decided to just release the Aimbot for 
 
 Requires Synapse, Script-Ware (Windows & Mac most likely), Fluxus, or KRNL
 
+I'd recommend using the loadstring incase an update is pushed out for the aimbot:
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/carolesdaughter/Streetball-Silent-Aim/main/Aimbot.lua"))()
 ```
