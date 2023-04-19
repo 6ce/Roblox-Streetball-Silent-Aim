@@ -13,7 +13,7 @@ I'd recommend using the loadstring incase an update is pushed out for the aimbot
 -- // due to high ping making autopower useless sometimes, ive added a toggle for it if you'd like to disable it
 getgenv().AutoPower = true -- // change to false to disable automatic power changing
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/carolesdaughter/Streetball-Silent-Aim/main/SilentAimbot.lua"))()"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/carolesdaughter/Streetball-Silent-Aim/main/SilentAimbot.lua"))()
 ```
 
 # Footing
