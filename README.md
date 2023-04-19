@@ -12,7 +12,7 @@ I'd recommend using the loadstring incase an update is pushed out for the aimbot
 ```
 getgenv().AutoPower = true -- // change to false to disable automatic power changing
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/carolesdaughter/Streetball-Silent-Aim/main/Aimbot.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/carolesdaughter/Streetball-Silent-Aim/main/SilentAimbot.lua"))()
 ```
 
 # Footing
