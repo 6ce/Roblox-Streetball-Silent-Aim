@@ -1,6 +1,6 @@
 # Streetball-Silent-Aim:
 
-Due to the GUI not being ready yet, I've decided to just release the Aimbot for free now, GUI coming soon :).
+Originally when I first made this, I announced the release of a GUI for Streetball, due to the owner selling already released scripts, I've decided to distance myself from that & the GUI will most likely not be made, this repository will be edited if it indeed does.
 
 # Usage
 
