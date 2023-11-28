@@ -1,6 +1,6 @@
 # Streetball-Silent-Aim:
 
-Originally when I first made this, I announced the release of a GUI for Streetball, due to the owner of the server I announced it in eventually deciding to start selling already-released scripts, I've decided to distance myself from that & the GUI will most likely not be made, this repository will be edited if it indeed does.
+Originally when I first made this, I announced the release of a GUI for Streetball, due to the owner of the server I announced it in eventually deciding to start selling already-released scripts, I've decided to distance myself from that & the GUI will most likely not be made, this repository will be edited if it is made.
 
 # Usage
 
